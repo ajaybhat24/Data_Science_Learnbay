@@ -1,0 +1,5 @@
+
+a='My Computer'
+b='is windows'
+print('Sum=', a+b)
+
